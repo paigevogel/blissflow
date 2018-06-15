@@ -1,0 +1,32 @@
+body {
+    background-color:#FBE8A6;
+}
+h1{color:#F4976C; font-family:"arial"; font-size:50px; font-style:oblique; text-shadow:2px 2px #D2FDFF;}
+h2{ font-family:arial;font-style:OBLIQUE; color:#F4976C; text-shadow:2px 2px #D2FDFF}
+h3{color:#303C6C;
+  font-size:20px;}
+body{ font-family:arial;
+  font-style: oblique;
+  color:#303C6C;
+  font-size:20px;}
+  
+  .hobbies_info{
+   color: red;
+  }
+  
+  .destress_info{
+    color: red;
+  }
+
+  .quotes_info{
+    color: #303C6C;
+  }
+  
+  
+  .study_info{
+    color: #303C6C;
+  }
+  
+  .hotlines_info{
+    color: #303C6C;
+  }
